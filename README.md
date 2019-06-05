@@ -9,4 +9,4 @@ This project does the following:
 
 Note: This has been tested in phones above Android Oreo Versions and below Android Oreo versions as well.
 In android oreo version and above you can't register for implicit events in AndroidManifest.xml file. 
-So, this has been tested in both above and below versions of Oreo and it wroks fine.
+So, this has been tested in both above and below versions of Oreo and it works fine.
